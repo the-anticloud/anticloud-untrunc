@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:cbc3fa0f-8e96-5d01-837c-7534f4d05e79",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:14:55Z",
+    "component": {
+      "type": "application",
+      "name": "UNTRUNC",
+      "version": "9d86ec9ef2ff",
+      "bom-ref": "pkg:generic/anticloud/UNTRUNC@9d86ec9ef2ff",
+      "purl": "pkg:generic/anticloud/UNTRUNC@9d86ec9ef2ff",
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "9d86ec9ef2ffed1bf8131abe80742c0574db52b6"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/anthwlock/untrunc"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
